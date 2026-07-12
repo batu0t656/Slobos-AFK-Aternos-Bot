@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "ben babapirobir botum!",
-        "I like to play Minecraft!"
+        "Quistorion tam bir bot ben daha iyi bir botum!",
+        "Ben quistoriondan daha iyi ve zekiyim haha!!!",
+        "Bu serverin en iyisiyim hahaha!",
+        "Hepiniz kötüsünüz."
       ]
     },
     "chat-log": true,
@@ -60,7 +61,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
